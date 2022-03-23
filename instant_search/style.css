@@ -1,0 +1,10 @@
+#slidenotice{
+    display: none;
+    position: absolute;
+    height: 50px;
+    background-color: #f0f0f0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}

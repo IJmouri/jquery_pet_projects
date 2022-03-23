@@ -1,0 +1,9 @@
+#comment{
+    left: 10px;
+    top: 20px;
+    height: 100px;
+    width: 280px;
+    background-color: #f0f0f0;
+    border: 1px solid #404040;
+    padding: 8px;
+}
